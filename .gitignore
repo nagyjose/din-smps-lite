@@ -1,0 +1,19 @@
+# Autodesk Eagle CAD backups and autosaves
+*.s#*
+*.b#*
+*.l#*
+*.epf
+*.zip
+
+# Temporary and editor files
+*#*
+*.tmp
+*~
+*.bak
+
+# Operating System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
